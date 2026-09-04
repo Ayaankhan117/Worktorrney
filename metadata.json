@@ -1,0 +1,6 @@
+{
+  "name": "worktorrney",
+  "description": "AI study companion and developer workstation to summarise docs, PowerPoint, Word, text, images, and videos, generate microcontroller & software code, write homework, and explain concepts like a real teacher tailored to IGCSE, Cambridge Lower Secondary, and NECTA.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
